@@ -6,13 +6,12 @@
 - 💞️ I’m looking forward to collaborate on interesting projects
 - 🔗 Feel free to connect with me on LinkedIn or send an e-mail
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshincr&langs_count=8&layout=compact&hide=makefile"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joshincr&show_icons=true&theme=algolia&count_private=True&title_color=89cff0"/>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height = 170px hspace="30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshincr&langs_count=10&hide=jupyter%20notebook&layout=compact&card_width=235" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshincr&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs&theme=algolia&title_color=89cff0" />
+</a>
 
 <!---
 joshincr/joshincr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
