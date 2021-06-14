@@ -1,10 +1,10 @@
 ### Hi, Welcome👋
 - 😄 This is me Joshin Cheriyan Rexy 
-- 👀 I’m interested in R&D, Python and AI 
-- 🌱 I’m currently pursuing B.Tech Pre-Final Year @ VNIT Nagpur
+- 👀 I’m interested in R&D, Web Development and AI 
+- 🌱 I’m pursuing B.Tech @ VNIT Nagpur
 - 🏆 My hobbies include playing basketball, football and part-time trading
 - 💞️ I’m looking forward to collaborate on interesting projects
-- 🔗 Feel free to connect with me on LinkedIn or send an e-mail
+- 🔗 Feel free to connect with me on LinkedIn or e-mail
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height = 170px hspace="30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshincr&langs_count=10&hide=jupyter%20notebook&layout=compact&card_width=235" />
