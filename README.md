@@ -1,8 +1,8 @@
 ### Hi, Welcome👋
 - 😄 This is me Joshin Cheriyan Rexy 
-- 👀 I’m interested in R&D, Web Development and AI 
-- 🌱 I’m pursuing B.Tech @ VNIT Nagpur
-- 🏆 My hobbies include playing basketball, football and part-time trading
+- 👀 I’m interested in R&D, Web Development and Competitive Programming
+- 🌱 I’m an ASDE-1 at Publicis Sapient
+- 🏆 My hobbies include travelling, playing football, and part-time trading
 - 💞️ I’m looking forward to collaborate on interesting projects
 - 🔗 Feel free to connect with me on LinkedIn or e-mail
 
