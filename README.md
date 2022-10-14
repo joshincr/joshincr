@@ -1,6 +1,6 @@
 ### Hi, Welcome👋
-- 😄 This is me Joshin Cheriyan Rexy 
-- 👀 I’m interested in R&D, Web Development and Competitive Programming
+- 😄 I am Joshin Cheriyan Rexy from Alappuzha, Kerala, India
+- 👀 I’m interested in R&D, Web Development and Problem Solving
 - 🌱 I’m an ASDE-1 at Publicis Sapient
 - 🏆 My hobbies include travelling, playing football, and part-time trading
 - 💞️ I’m looking forward to collaborate on interesting projects
